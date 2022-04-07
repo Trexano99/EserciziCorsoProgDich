@@ -6,34 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Esercizi\Esercizi L2-L8.zip" />
-    <None Include="Esercizi\Esercizi L2\EsLezione2.fsx" />
-    <None Include="Esercizi\Esercizi L3\EsAssegnati\EserciziLst.fsx" />
-    <None Include="Esercizi\Esercizi L3\EsAssegnati\EserciziTag.fsx" />
-    <None Include="Esercizi\Esercizi L3\EsLezione\EsLezione3.fsx" />
-    <None Include="Esercizi\Esercizi L4\EsAssegnati\EserciziCheck.fsx" />
-    <None Include="Esercizi\Esercizi L4\EsLezione\EsLezione4Exn.fsx" />
-    <None Include="Esercizi\Esercizi L5\EsLezione\EsLezione5Ho1.fsx" />
-    <None Include="Esercizi\Esercizi L5\EsLezione\EsLezione5Ho2.fsx" />
-    <None Include="Esercizi\Esercizi L6\EsAssegnati\EserciziTree.fsx" />
-    <None Include="Esercizi\Esercizi L7\EsAssegnati\Esercizi.fsx" />
-    <None Include="Esercizi\Esercizi L7\EsLezione\EsLezione7Seq.fsx" />
-    <None Include="Esercizi\Esercizi L8\EsAssegnati\EserciziTc.fsx" />
-    <Compile Include="Lezioni\L9\intset\iset.fsi" />
-    <Compile Include="Lezioni\L9\intset\listFS.fs" />
-    <Compile Include="Lezioni\L9\intset\treeFS.fs" />
-    <Compile Include="Lezioni\L9\Queue\Queue.fsi" />
-    <Compile Include="Lezioni\L9\Queue\QueueN.fs" />
-    <Compile Include="Lezioni\L9\Queue\QueueP.fs" />
-    <Content Include="Lezioni\L3\esercizi\lst\lst.txt" />
-    <Content Include="Lezioni\L3\esercizi\tags\es-tag.txt" />
-    <Content Include="Lezioni\L3\esercizi\tags\morefig.txt" />
-    <Content Include="Lezioni\L4\exCheck.txt" />
-    <Content Include="Lezioni\L6\ex-tree.txt" />
-    <Content Include="Lezioni\L7\esercizi.txt" />
-    <Content Include="Lezioni\L7\seqLibrary.txt" />
-    <Content Include="Lezioni\L8\esercizio-tc.txt" />
-    <Content Include="Lezioni\L9\Esercizi\exQ.txt" />
     <None Include="Lezioni\L10\iter.fsx" />
     <None Include="Lezioni\L1\lez01_basiLinguaggio.fsx" />
     <None Include="Lezioni\L2\lez02_list.fsx" />
@@ -67,7 +39,37 @@
     <None Include="Lezioni\L9\Queue\QueueP.fs~" />
     <None Include="Lezioni\L9\Queue\test-queue.fsx" />
     <None Include="Lezioni\L9\Queue\test-queue.fsx~" />
+    <Compile Include="Lezioni\L9\intset\iset.fsi" />
+    <Compile Include="Lezioni\L9\intset\listFS.fs" />
+    <Compile Include="Lezioni\L9\intset\treeFS.fs" />
+    <Compile Include="Lezioni\L9\Queue\Queue.fsi" />
+    <Compile Include="Lezioni\L9\Queue\QueueN.fs" />
+    <Compile Include="Lezioni\L9\Queue\QueueP.fs" />
+    <Content Include="Lezioni\L3\esercizi\lst\lst.txt" />
+    <Content Include="Lezioni\L3\esercizi\tags\es-tag.txt" />
+    <Content Include="Lezioni\L3\esercizi\tags\morefig.txt" />
+    <Content Include="Lezioni\L4\exCheck.txt" />
+    <Content Include="Lezioni\L6\ex-tree.txt" />
+    <Content Include="Lezioni\L7\esercizi.txt" />
+    <Content Include="Lezioni\L7\seqLibrary.txt" />
+    <Content Include="Lezioni\L8\esercizio-tc.txt" />
+    <Content Include="Lezioni\L9\Esercizi\exQ.txt" />
+    <None Include="Esercizi\Esercizi L2-L8.zip" />
+    <None Include="Esercizi\Esercizi L2\EsLezione2.fsx" />
+    <None Include="Esercizi\Esercizi L3\EsAssegnati\EserciziLst.fsx" />
+    <None Include="Esercizi\Esercizi L3\EsAssegnati\EserciziTag.fsx" />
+    <None Include="Esercizi\Esercizi L3\EsLezione\EsLezione3.fsx" />
+    <None Include="Esercizi\Esercizi L4\EsAssegnati\EserciziCheck.fsx" />
+    <None Include="Esercizi\Esercizi L4\EsLezione\EsLezione4Exn.fsx" />
+    <None Include="Esercizi\Esercizi L5\EsLezione\EsLezione5Ho1.fsx" />
+    <None Include="Esercizi\Esercizi L5\EsLezione\EsLezione5Ho2.fsx" />
+    <None Include="Esercizi\Esercizi L6\EsAssegnati\EserciziTree.fsx" />
+    <None Include="Esercizi\Esercizi L7\EsAssegnati\Esercizi.fsx" />
+    <None Include="Esercizi\Esercizi L7\EsLezione\EsLezione7Seq.fsx" />
+    <None Include="Esercizi\Esercizi L8\EsAssegnati\EserciziTc.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>
