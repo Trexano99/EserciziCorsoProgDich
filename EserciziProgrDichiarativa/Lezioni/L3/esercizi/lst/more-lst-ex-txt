@@ -1,0 +1,27 @@
+- Using pattern matching, write three functions, one for each of the following properties. 
+Your functions should return true if the input list has the property and false otherwise.
+
+  +  the list’s first element is "bigred"
+
+   + the list has exactly two or four elements; do not use the length function
+
+   + the first two elements of the list are equal
+
+
+- Write a function take : int -> 'a list -> 'a list 
+
+such that take n lst returns the first n elements of lst. 
+If lst has fewer than n elements, return all of them.
+
+- Write a function drop : int -> 'a list -> 'a list 
+
+such that drop n lst returns all but the first n elements of lst. 
+If lst has fewer than n elements, return the empty list.
+
+- Write a function powerset : int list -> int list list 
+
+that takes a set S represented as a list without repetitions and returns the set of all subsets of S. 
+The order of subsets in the powerset and the order of elements in the subsets do not matter.
+
+Hint: Consider the recursive structure of this problem. Suppose you already have p, such that p = powerset s. 
+How could you use p to compute powerset (x :: s)?
