@@ -54,7 +54,6 @@
     <Content Include="Lezioni\L7\seqLibrary.txt" />
     <Content Include="Lezioni\L8\esercizio-tc.txt" />
     <Content Include="Lezioni\L9\Esercizi\exQ.txt" />
-    <None Include="Esercizi\Esercizi L2-L8.zip" />
     <None Include="Esercizi\Esercizi L2\EsLezione2.fsx" />
     <None Include="Esercizi\Esercizi L3\EsAssegnati\EserciziLst.fsx" />
     <None Include="Esercizi\Esercizi L3\EsAssegnati\EserciziTag.fsx" />
@@ -67,7 +66,6 @@
     <None Include="Esercizi\Esercizi L7\EsAssegnati\Esercizi.fsx" />
     <None Include="Esercizi\Esercizi L7\EsLezione\EsLezione7Seq.fsx" />
     <None Include="Esercizi\Esercizi L8\EsAssegnati\EserciziTc.fsx" />
-    <Compile Include="Program.fs" />
   </ItemGroup>
 
   <ItemGroup />
