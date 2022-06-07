@@ -438,7 +438,7 @@ e'
 // Si *assume* che sq sia infinita
 
 
-let nat = Seq.initInfinite id
+let nat5 = Seq.initInfinite id
 
 let rec sumSeq sq =
     seq{
